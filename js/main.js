@@ -1,4 +1,4 @@
-const url = 'http://api.openweathermap.org/data/2.5/weather?q=';
+const url = 'https://api.openweathermap.org/data/2.5/weather?q=';
 const API_KEY = 'd247f4e74ef95cf541c3bb882d1fa708';
 const d = document;
 let info = d.getElementById('info');
